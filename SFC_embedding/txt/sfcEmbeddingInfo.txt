@@ -1,0 +1,469 @@
+
+sfc的ID：0
+vnf的ID：0  映射到的点：9
+vnf的ID：1  映射到的点：11
+vnf的ID：2  映射到的点：8
+vnf的ID：3  映射到的点：9
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：1
+vnf的ID：0  映射到的点：12
+vnf的ID：1  映射到的点：8
+vnf的ID：2  映射到的点：12
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：2
+vnf的ID：0  映射到的点：5
+vnf的ID：1  映射到的点：12
+vnf的ID：2  映射到的点：9
+vnf的ID：3  映射到的点：12
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：3
+vnf的ID：0  映射到的点：0
+vnf的ID：1  映射到的点：0
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：4
+vnf的ID：0  映射到的点：1
+vnf的ID：1  映射到的点：0
+vnf的ID：2  映射到的点：0
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：5
+vnf的ID：0  映射到的点：0
+vnf的ID：1  映射到的点：6
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：6
+vnf的ID：0  映射到的点：2
+vnf的ID：1  映射到的点：6
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：7
+vnf的ID：0  映射到的点：12
+vnf的ID：1  映射到的点：13
+vnf的ID：2  映射到的点：12
+vnf的ID：3  映射到的点：9
+vnf的ID：4  映射到的点：10
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：3  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：8
+vnf的ID：0  映射到的点：2
+vnf的ID：1  映射到的点：0
+vnf的ID：2  映射到的点：2
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：9
+vnf的ID：0  映射到的点：7
+vnf的ID：1  映射到的点：12
+vnf的ID：2  映射到的点：5
+vnf的ID：3  映射到的点：12
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：10
+vnf的ID：0  映射到的点：1
+vnf的ID：1  映射到的点：3
+vnf的ID：2  映射到的点：1
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：11
+vnf的ID：0  映射到的点：14
+vnf的ID：1  映射到的点：23
+vnf的ID：2  映射到的点：18
+vnf的ID：3  映射到的点：16
+vnf的ID：4  映射到的点：18
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：3  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：12
+vnf的ID：0  映射到的点：3
+vnf的ID：1  映射到的点：0
+vnf的ID：2  映射到的点：6
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：13
+vnf的ID：0  映射到的点：0
+vnf的ID：1  映射到的点：6
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：14
+vnf的ID：0  映射到的点：10
+vnf的ID：1  映射到的点：8
+vnf的ID：2  映射到的点：9
+vnf的ID：3  映射到的点：10
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：15
+vnf的ID：0  映射到的点：23
+vnf的ID：1  映射到的点：14
+vnf的ID：2  映射到的点：18
+vnf的ID：3  映射到的点：14
+vnf的ID：4  映射到的点：11
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：3  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：16
+vnf的ID：0  映射到的点：16
+vnf的ID：1  映射到的点：14
+vnf的ID：2  映射到的点：22
+vnf的ID：3  映射到的点：16
+vnf的ID：4  映射到的点：22
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：3  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：17
+vnf的ID：0  映射到的点：0
+vnf的ID：1  映射到的点：1
+vnf的ID：2  映射到的点：6
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：18
+vnf的ID：0  映射到的点：0
+vnf的ID：1  映射到的点：1
+vnf的ID：2  映射到的点：3
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：19
+vnf的ID：0  映射到的点：5
+vnf的ID：1  映射到的点：8
+vnf的ID：2  映射到的点：8
+vnf的ID：3  映射到的点：9
+vnf的ID：4  映射到的点：12
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：3  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：20
+vnf的ID：0  映射到的点：12
+vnf的ID：1  映射到的点：9
+vnf的ID：2  映射到的点：7
+vnf的ID：3  映射到的点：5
+vnf的ID：4  映射到的点：8
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：3  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：21
+vnf的ID：0  映射到的点：5
+vnf的ID：1  映射到的点：7
+vnf的ID：2  映射到的点：3
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：22
+vnf的ID：0  映射到的点：6
+vnf的ID：1  映射到的点：0
+vnf的ID：2  映射到的点：2
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：23
+vnf的ID：0  映射到的点：16
+vnf的ID：1  映射到的点：13
+vnf的ID：2  映射到的点：23
+vnf的ID：3  映射到的点：22
+vnf的ID：4  映射到的点：11
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：3  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：24
+vnf的ID：0  映射到的点：9
+vnf的ID：1  映射到的点：7
+vnf的ID：2  映射到的点：9
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：25
+vnf的ID：0  映射到的点：9
+vnf的ID：1  映射到的点：8
+vnf的ID：2  映射到的点：8
+vnf的ID：3  映射到的点：5
+vnf的ID：4  映射到的点：12
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：3  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：26
+vnf的ID：0  映射到的点：16
+vnf的ID：1  映射到的点：11
+vnf的ID：2  映射到的点：13
+vnf的ID：3  映射到的点：23
+vnf的ID：4  映射到的点：10
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：3  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：27
+vnf的ID：0  映射到的点：1
+vnf的ID：1  映射到的点：7
+vnf的ID：2  映射到的点：9
+vnf的ID：3  映射到的点：3
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：28
+vnf的ID：0  映射到的点：15
+vnf的ID：1  映射到的点：11
+vnf的ID：2  映射到的点：22
+vnf的ID：3  映射到的点：15
+vnf的ID：4  映射到的点：22
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：3  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：29
+vnf的ID：0  映射到的点：3
+vnf的ID：1  映射到的点：0
+vnf的ID：2  映射到的点：3
+vnf的ID：3  映射到的点：6
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：30
+vnf的ID：0  映射到的点：0
+vnf的ID：1  映射到的点：2
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：31
+vnf的ID：0  映射到的点：7
+vnf的ID：1  映射到的点：1
+vnf的ID：2  映射到的点：3
+vnf的ID：3  映射到的点：1
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：32
+vnf的ID：0  映射到的点：13
+vnf的ID：1  映射到的点：9
+vnf的ID：2  映射到的点：18
+vnf的ID：3  映射到的点：13
+vnf的ID：4  映射到的点：18
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：3  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：33
+vnf的ID：0  映射到的点：22
+vnf的ID：1  映射到的点：16
+vnf的ID：2  映射到的点：12
+vnf的ID：3  映射到的点：14
+vnf的ID：4  映射到的点：16
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：3  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：34
+vnf的ID：0  映射到的点：9
+vnf的ID：1  映射到的点：6
+vnf的ID：2  映射到的点：0
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：35
+vnf的ID：0  映射到的点：2
+vnf的ID：1  映射到的点：0
+vnf的ID：2  映射到的点：2
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：36
+vnf的ID：0  映射到的点：12
+vnf的ID：1  映射到的点：8
+vnf的ID：2  映射到的点：12
+vnf的ID：3  映射到的点：7
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：37
+vnf的ID：0  映射到的点：10
+vnf的ID：1  映射到的点：18
+vnf的ID：2  映射到的点：13
+vnf的ID：3  映射到的点：18
+vnf的ID：4  映射到的点：13
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：3  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：38
+vnf的ID：0  映射到的点：8
+vnf的ID：1  映射到的点：11
+vnf的ID：2  映射到的点：8
+vnf的ID：3  映射到的点：9
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：39
+vnf的ID：0  映射到的点：10
+vnf的ID：1  映射到的点：13
+vnf的ID：2  映射到的点：11
+vnf的ID：3  映射到的点：16
+vnf的ID：4  映射到的点：14
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：3  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：40
+vnf的ID：0  映射到的点：2
+vnf的ID：1  映射到的点：0
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：41
+vnf的ID：0  映射到的点：10
+vnf的ID：1  映射到的点：11
+vnf的ID：2  映射到的点：9
+vnf的ID：3  映射到的点：10
+vnf的ID：4  映射到的点：12
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：3  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：42
+vnf的ID：0  映射到的点：8
+vnf的ID：1  映射到的点：8
+vnf的ID：2  映射到的点：9
+vnf的ID：3  映射到的点：8
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：43
+vnf的ID：0  映射到的点：12
+vnf的ID：1  映射到的点：5
+vnf的ID：2  映射到的点：6
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+sfc的ID：44
+vnf的ID：0  映射到的点：11
+vnf的ID：1  映射到的点：8
+vnf的ID：2  映射到的点：12
+vnf的ID：3  映射到的点：11
+vnf的ID：4  映射到的点：9
+link的ID：0  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：1  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：2  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
+link的ID：3  , 用到的边：
+没有用到rLink,可能映射到同一个点了。
